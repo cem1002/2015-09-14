@@ -1,0 +1,4 @@
+Tools -> Global Options...
+
+Uncheck "Restore .RData"
+Save workspace... "N"
