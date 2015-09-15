@@ -51,9 +51,9 @@ To install:
 - Find a dataset related to one or more cities and perform a detailed exploratory data analysis (EDA) on it.
 - Hint: Google "<CITY NAME> open data"
 - Three deadlines:
-    * September 21: Install `R` environment, find (interim) dataset(s), and produce a skeleton report with a numerical summary and a graphical summary.
-    * September 28: Using final dataset(s) provide interim report.
-    * October 5: Final report.
+    * September ~~21~~ **22**: Install `R` environment, find (interim) dataset(s), and produce a skeleton report with a numerical summary and a graphical summary.
+    * September ~~28~~ **29**: Using final dataset(s) provide interim report.
+    * October ~~5~~ **9**: Final report.
     * Dates may be adjusted to avoid distaster.
 
 ## R miscellanea
